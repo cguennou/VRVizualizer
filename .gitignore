@@ -5,7 +5,7 @@ Saved
 ThirdParty
 Deleted stuff
 Releases
-*.VC.db
+*.VC.db*
 *.opensdf
 *.opendb
 *.sdf
