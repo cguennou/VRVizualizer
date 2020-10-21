@@ -6,6 +6,7 @@ ThirdParty
 Deleted stuff
 Releases
 *.VC.db*
+*.ipch
 *.opensdf
 *.opendb
 *.sdf
